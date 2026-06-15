@@ -36,6 +36,7 @@ The dashboard includes the following key visualizations:
 
 * Netflix Dashboard.pbix
 * Netflix Dataset (.csv)
+* Dashboard Screenshot
 
 ## Skills Demonstrated
 
